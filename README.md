@@ -1,6 +1,5 @@
 
-https://github.com/snehalkandekar/https-github.com-snehalkandekar-VirtualTouristGuideApp/assets/100847322/576c07ed-219a-4276-a325-f6ccb84582b5
-# https-github.com-snehalkandekar-VirtualTouristGuideApp
+
 This is a mobile application which renders information about monument or landmark just by taking their live pictures of places and provide all information related to places like Hospitals , Hotel and Temple and also seek for help in an emergency.
 
 
